@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../.gradle/caches/transforms-3/4b540ec5e49d98cac7bf5d302ef04722/transformed/jetified-matisse-0.5.3-beta3/res/layout/media_grid_item.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.32135416666666666" />
+        <entry key="gallery/src/main/res/layout/gallery_photo_item.xml" value="0.26851851851851855" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

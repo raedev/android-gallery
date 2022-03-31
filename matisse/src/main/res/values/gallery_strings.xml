@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gallery_error_update_photo_id">the photo id can not null when on updating database</string>
+    <string name="gallery_error_delete_photo_id">the photo id can not null when on deleting database</string>
+    <string name="gallery_error_photo_file_not_found">photo not found：%s</string>
+    <string name="gallery_external_storage_name">storage</string>
+    <string name="gallery_normal_albums_name">album</string>
+    <string name="gallery_favorite_albums_name">favorite</string>
+    <string name="gallery_deleted_albums_name">recent deleted</string>
+    <string name="gallery_unknown_albums_name">uncategorized</string>
+    <string name="gallery_error_insert_unknown_albums">insert photo error</string>
+    <string name="gallery_error_album_not_found">album not found</string>
+</resources>

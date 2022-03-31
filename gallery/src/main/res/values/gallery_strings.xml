@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gallery_error_update_photo_id">更新照片时ID不能为空</string>
+    <string name="gallery_error_delete_photo_id">删除照片时ID不能为空</string>
+    <string name="gallery_error_photo_file_not_found">照片文件不存在，请检查路径：%s</string>
+    <string name="gallery_external_storage_name">手机存储</string>
+    <string name="gallery_normal_albums_name">普通相册</string>
+    <string name="gallery_favorite_albums_name">收藏相册</string>
+    <string name="gallery_deleted_albums_name">最近删除</string>
+    <string name="gallery_unknown_albums_name">未分类相册</string>
+    <string name="gallery_error_insert_unknown_albums">添加系统未分类相册失败</string>
+    <string name="gallery_error_album_not_found">相册不存在</string>
+</resources>
