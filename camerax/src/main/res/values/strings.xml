@@ -1,0 +1,3 @@
+<resources>
+    <string name="camerax_error_not_fond">当前设备没有任何摄像头</string>
+</resources>

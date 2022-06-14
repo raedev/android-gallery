@@ -7,7 +7,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = 'Gallery'
-include ':matisse'
-include ':app'
+//include ':matisse'
 //include ':gallery'
-//include ':ui:geo'
+include ':camerax'
+include ':app'
